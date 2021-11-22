@@ -1,3 +1,3 @@
-# lotery_project
+# lottery_project
 
 BlockChain Technology Used.
